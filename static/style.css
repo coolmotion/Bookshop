@@ -1,0 +1,8 @@
+.tab-content {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+  }
+  .tab-content.active {
+    opacity: 1;
+  }
+  
